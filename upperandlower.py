@@ -9,5 +9,12 @@ def string(x):
     print("No of upper case:",upper_case)
     print("No of lower case:",lower_case)
 
-string('The quick Brow Fox')
+x = input()
+string(x)
+
+
+
+
+
+
 
